@@ -10,4 +10,4 @@
 
 6. ![default](screenshot.gif)
 
-7.
+7. https://hyundai-sangho.github.io/Timer_js/
